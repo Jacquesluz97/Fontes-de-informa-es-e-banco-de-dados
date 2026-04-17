@@ -2,7 +2,8 @@
 Disciplina Ministrada no 1° semestre CST-GPI
 ## APRESENTAÇÃO FATEC GPI - EM EQUIPE UTILIZANDO SOFTWARE DE DESIGN GRÁFICO
 Apresentação produzida pelo CANVAS, e foi apresentado de forma oral.
-
+[Uploading Colorido Materiais Escolares Ilustrações 3D Sobre Mim Em Branco Educação Apresentação.pdf…]()
+<img width="1228" height="689" alt="jacques" src="https://github.com/user-attachments/assets/675d62cd-1ab7-4d64-a283-cb2e5e7c9599" />
 
 ## Simulação API - Projeto Integrador
 Ensaio para a API.
