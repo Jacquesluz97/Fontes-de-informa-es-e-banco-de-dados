@@ -19,13 +19,11 @@ Trabalho com gráficos e tabelas.
 ## Aprimorando técnicas no excel
 Tratamento de dados e visualização em gráfico dinâmico
 
-***Tabela e Gráfico*** - [https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/commit/fa6ad528f9d01d8f2d38e070d7c189a4d30aec32](https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/blob/main/DESPESASJC.xlsx)
+## Tabela e Gráfico- [DESPESASJC.xlsx](https://github.com/user-attachments/files/26804467/DESPESASJC.xlsx)
+Evidência - <img width="1919" height="780" alt="despesassjc" src="https://github.com/user-attachments/assets/954b6772-8e88-4506-9f37-2f51982238a8" />
 
-***Evidência*** - https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/commit/fa6ad528f9d01d8f2d38e070d7c189a4d30aec32
-
-***Tabela e Gráfico*** - https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/blob/main/fornecedores.xlsx
-
-***Evidência*** - https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/blob/main/Captura%20de%20tela%20de%202026-03-19%2016-29-44.png
+## Tabela e Gráfico- [fornecedores.xlsx](https://github.com/user-attachments/files/26804490/fornecedores.xlsx)
+Evidência - <img width="1366" height="768" alt="fornecedoresjc" src="https://github.com/user-attachments/assets/b84a0bee-3a03-4be4-8d11-e31eefe4d734" />
 
 ## Utilizando o excel para o tratamento de "DADOS ABERTOS-SP" do segmento da educação, com a fórmula "SOMASES".
 https://docs.google.com/spreadsheets/d/19HB8JEV6hIH7cVFf6rd-9ZEfIw8-Oeon/edit?usp=sharing&ouid=101810325832933042067&rtpof=true&sd=true
