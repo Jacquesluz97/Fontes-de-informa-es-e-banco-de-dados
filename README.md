@@ -31,5 +31,6 @@ https://docs.google.com/spreadsheets/d/19HB8JEV6hIH7cVFf6rd-9ZEfIw8-Oeon/edit?us
 
 ## Utilizando o excel para o tratamento de "DADOS ABERTOS DA SECRETARIA DE SJC - ABA TRANSPARENCIA - DESPESAS DE JANEIRO A MARÇO"; e utilização dos dados para visualização em gráfico no POWER BI
 https://github.com/Jacquesluz97/Fontes-de-informa-es-e-banco-de-dados/blob/main/DESPESAS_SJC_1-TRIMESTRE.pbix
-Evidência - <img https://github.com/Jacquesluz97/Fontes-de-informa-es-e-banco-de-dados/commit/8ebf428b5849fcd8222114316c779a3284ccf92b
+Evidência - <img <img width="1238" height="479" alt="POWER-BI-FIRST" src="https://github.com/user-attachments/assets/3b127cb7-b884-45ca-954b-bc9f84cee017" />
+
 
