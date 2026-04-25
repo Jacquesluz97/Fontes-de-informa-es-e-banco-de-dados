@@ -36,7 +36,7 @@ DESPESAS.zip > [https://drive.google.com/drive/folders/1oaKIPyApt_Vy5EhQ7dytd-VL
 
 Evidência - <img width="1238" height="479" alt="POWER-BI-FIRST" src="https://github.com/user-attachments/assets/3b127cb7-b884-45ca-954b-bc9f84cee017" />
 
-
+## Utilizando o excel para o tratamento de "DADOS ABERTOS DO GOVERNO DE SP - ENSINO SUPERIOR > e utilização dos dados para visualização em gráfico no POWER BI
 
 
 
