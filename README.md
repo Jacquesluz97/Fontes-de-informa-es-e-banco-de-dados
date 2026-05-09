@@ -38,13 +38,14 @@ Evidência - <img width="1238" height="479" alt="POWER-BI-FIRST" src="https://gi
 
 ## UTILIZANDO DADOS ABERTOS DE SP TRABALHOS FORMAIS E MUNICIPIOS PASSAMOS PELAS ETAPAS DE STL E FORMULA DAX MODELAMOS E VISUALIZAMOS DADOS DE EMPREGOS FORMAIS E SUAS MOVIMENTAÇÕES
 [https://github.com/Jacquesluz97/Fontes-de-informa-es-e-banco-de-dados/blob/main/EMPREGO-FORMAL-DADOS-ABERTOS-SP.pbix]
-
-
+EVIDENCIA - <img width="822" height="320" alt="image" src="https://github.com/user-attachments/assets/ec41191c-bed7-4c1d-8db4-ae2e4d23c1f1" />
 
 ## Utilizando o excel para o tratamento de "DADOS ABERTOS DO GOVERNO DE SP - ENSINO SUPERIOR > e utilização dos dados para visualização em gráfico no POWER BI
 https://github.com/Jacquesluz97/Fontes-de-informa-es-e-banco-de-dados/blob/main/VISUALIZAZAO-ENS.SUPERIOR-DADOS-ABERTOS-SP.zip
+EVIDENCIA - <img width="1230" height="595" alt="image" src="https://github.com/user-attachments/assets/5b81bee2-e601-41c3-8919-e3543738a656" />
 
-EVIDENCIA - <img width="822" height="320" alt="image" src="https://github.com/user-attachments/assets/ec41191c-bed7-4c1d-8db4-ae2e4d23c1f1" />
+
+
 
 
 
