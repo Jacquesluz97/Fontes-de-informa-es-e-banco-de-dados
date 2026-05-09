@@ -41,12 +41,16 @@ Evidência - <img width="1238" height="479" alt="POWER-BI-FIRST" src="https://gi
 EVIDENCIA - <img width="822" height="320" alt="image" src="https://github.com/user-attachments/assets/ec41191c-bed7-4c1d-8db4-ae2e4d23c1f1" />
 
 ## Utilizando o excel para o tratamento de "DADOS ABERTOS DO GOVERNO DE SP - ENSINO SUPERIOR > e utilização dos dados para visualização em gráfico no POWER BI
-https://github.com/Jacquesluz97/Fontes-de-informa-es-e-banco-de-dados/blob/main/VISUALIZAZAO-ENS.SUPERIOR-DADOS-ABERTOS-SP.zip
-EVIDENCIA - <img width="1230" height="595" alt="image" src="https://github.com/user-attachments/assets/5b81bee2-e601-41c3-8919-e3543738a656" />
-
+[https://github.com/Jacquesluz97/Fontes-de-informa-es-e-banco-de-dados/blob/main/VISUALIZAZAO-ENS.SUPERIOR-DADOS-ABERTOS-SP.zip]
 ## PERGUNTAS
    > Em qual ano e mês houve o menor saldo de movimentação? E o maior?
-     >  
+     R: Menor movimentação: Ano 2020, meês Abril
+     R: Maior movimentação: Ano 2025, mês de fevereiro.
+
+   > Em qual ano a média  de movimentação foi maior que zero?
+     R: Ano de 2026 
+EVIDENCIA - <img width="1230" height="595" alt="image" src="https://github.com/user-attachments/assets/5b81bee2-e601-41c3-8919-e3543738a656" />
+
 
 
 
