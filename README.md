@@ -44,6 +44,9 @@ EVIDENCIA - <img width="822" height="320" alt="image" src="https://github.com/us
 https://github.com/Jacquesluz97/Fontes-de-informa-es-e-banco-de-dados/blob/main/VISUALIZAZAO-ENS.SUPERIOR-DADOS-ABERTOS-SP.zip
 EVIDENCIA - <img width="1230" height="595" alt="image" src="https://github.com/user-attachments/assets/5b81bee2-e601-41c3-8919-e3543738a656" />
 
+## PERGUNTAS
+   > Em qual ano e mês houve o menor saldo de movimentação? E o maior?
+     >  
 
 
 
