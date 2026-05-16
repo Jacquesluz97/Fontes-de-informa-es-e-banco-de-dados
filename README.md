@@ -71,7 +71,12 @@ EVIDENCIA - <img width="1230" height="595" alt="image" src="https://github.com/u
 EVIDENCIA > <img width="932" height="541" alt="image" src="https://github.com/user-attachments/assets/d495ac1f-d48a-41f8-9f48-ae1a3cad093a" />
 EVIDENCIA > <img width="745" height="548" alt="image" src="https://github.com/user-attachments/assets/7d5ba400-617a-45a6-a670-936626563cee" />
 
+📒 Disciplina ministrada no 1º Semestre CST GPI - Gestão de Produção Industrial.
+📅 15/05/2026 - Gráfico de regressão linear utilizando CSV LINK DO KRAGLE https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo
 
+📌 Nesta atividade, concluída no dia 15/05/2026, utilizamos os dados do KRAGLE e transformamos em extensão xlsx carregamos os dados usamos textos para colunas e plotamos um grafico de gressão linear de temperatura media e consumo.
+🔴Arquivo pode ser encontrado como https://github.com/Jacquesluz97/Fontes-de-informa-es-e-banco-de-dados/commit/dac0887bda687ab872b4b63491939a3b8baf403e
+EVIDENCIA > <img width="872" height="386" alt="image" src="https://github.com/user-attachments/assets/30cac35f-36d7-4bf5-b05b-866af211d810" />
 
 
 
