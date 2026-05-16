@@ -51,11 +51,27 @@ EVIDENCIA - <img width="822" height="320" alt="image" src="https://github.com/us
      R: Ano de 2026 
 EVIDENCIA - <img width="1230" height="595" alt="image" src="https://github.com/user-attachments/assets/5b81bee2-e601-41c3-8919-e3543738a656" />
 
-📒 Disciplina ministrada no 1º Semestre CST GPI - Gestão de Produção Industrial.
+## 📒 Disciplina ministrada no 1º Semestre CST GPI - Gestão de Produção Industrial.
+
 📅 15/05/2026 - Gráfico de regressão linear utilizando python
+
 📌 Nesta atividade, concluída no dia 15/05/2026, utilizamos o google colab para construção de uma regressão linear utilizando a linguagem de programação python.
+
 🔴Arquivo pode ser encontrado como https://github.com/Jacquesluz97/Fontes-de-informa-es-e-banco-de-dados/blob/main/Untitled0.ipynb
+
 <img width="990" height="561" alt="image" src="https://github.com/user-attachments/assets/40b67725-1be1-484e-81bd-3fc75e265002" />
+
+## 📒 Disciplina ministrada no 1º Semestre CST GPI - Gestão de Produção Industrial.
+
+📅 15/05/2026 - Gráfico de regressão linear utilizando python
+
+📌 Nesta atividade, concluída no dia 15/05/2026, utilizamos o google colab para construção de uma regressão linear utilizando a linguagem de programação python carregamos o data frame utilizando gemini após isso plotamos um grafico de gressão linear e correlação de consumo entre dias de semana e fim de semana.
+
+🔴Arquivo pode ser encontrado como https://github.com/Jacquesluz97/Fontes-de-informa-es-e-banco-de-dados/blob/main/DADOS-CONSUMO-CERVEJA-EM-SP.ipynb
+EVIDENCIA > <img width="932" height="541" alt="image" src="https://github.com/user-attachments/assets/d495ac1f-d48a-41f8-9f48-ae1a3cad093a" />
+EVIDENCIA > <img width="745" height="548" alt="image" src="https://github.com/user-attachments/assets/7d5ba400-617a-45a6-a670-936626563cee" />
+
+
 
 
 
