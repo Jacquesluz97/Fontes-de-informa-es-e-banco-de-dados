@@ -51,6 +51,12 @@ EVIDENCIA - <img width="822" height="320" alt="image" src="https://github.com/us
      R: Ano de 2026 
 EVIDENCIA - <img width="1230" height="595" alt="image" src="https://github.com/user-attachments/assets/5b81bee2-e601-41c3-8919-e3543738a656" />
 
+📒 Disciplina ministrada no 1º Semestre CST GPI - Gestão de Produção Industrial.
+📅 15/05/2026 - Gráfico de regressão linear utilizando python
+📌 Nesta atividade, concluída no dia 15/05/2026, utilizamos o google colab para construção de uma regressão linear utilizando a linguagem de programação python.
+🔴Arquivo pode ser encontrado como https://github.com/Jacquesluz97/Fontes-de-informa-es-e-banco-de-dados/blob/main/Untitled0.ipynb
+<img width="990" height="561" alt="image" src="https://github.com/user-attachments/assets/40b67725-1be1-484e-81bd-3fc75e265002" />
+
 
 
 
