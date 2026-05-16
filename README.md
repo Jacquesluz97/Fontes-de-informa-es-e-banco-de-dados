@@ -52,6 +52,12 @@ EVIDENCIA - <img width="822" height="320" alt="image" src="https://github.com/us
 EVIDENCIA - <img width="1230" height="595" alt="image" src="https://github.com/user-attachments/assets/5b81bee2-e601-41c3-8919-e3543738a656" />
 
 ## 📒 Disciplina ministrada no 1º Semestre CST GPI - Gestão de Produção Industrial.
+📌 Nesta atividade, concluída no dia 14/05/2026, utilizamos os dados do KRAGLE de vendas de sorvete e temperatura e transformamos em extensão xlsx carregamos os dados usamos textos para colunas e plotamos um grafico de gressão linear de temperatura media e consumo.
+🔴Arquivo pode ser encontrado como https://github.com/Jacquesluz97/Fontes-de-informa-es-e-banco-de-dados/blob/main/Ice%20Cream%20Sales%20-%20temperatures.xlsx
+EVIDENCIA > <img width="906" height="532" alt="image" src="https://github.com/user-attachments/assets/b0547eae-2fa4-4eeb-a7f7-68ad261ec4a7" />
+
+
+## 📒 Disciplina ministrada no 1º Semestre CST GPI - Gestão de Produção Industrial.
 
 📅 15/05/2026 - Gráfico de regressão linear utilizando python
 
