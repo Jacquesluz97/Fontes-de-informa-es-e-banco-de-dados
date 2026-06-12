@@ -1,3 +1,5 @@
+<img width="1104" height="789" alt="Captura de tela 2026-06-11 210415" src="https://github.com/user-attachments/assets/0257e660-e903-46e0-9820-bcab01db16e4" />
+<img width="2000" height="1414" alt="Jacques Luz" src="https://github.com/user-attachments/assets/01038e62-1f1c-40db-8f8e-4352a5a55263" />
 # Fontes-de-informa-es-e-banco-de-dados
 Disciplina Ministrada no 1° semestre CST-GPI
 ## APRESENTAÇÃO FATEC GPI - EM EQUIPE UTILIZANDO SOFTWARE DE DESIGN GRÁFICO
